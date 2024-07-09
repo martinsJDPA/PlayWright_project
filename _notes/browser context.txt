@@ -1,0 +1,3 @@
+
+Using browser context is necessary when you want to use the same browser but for
+ different jobs/tasks, and you don't want them interacting or exchanging info or cookies.

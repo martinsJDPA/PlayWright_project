@@ -1,0 +1,4 @@
+
+When handling frames/iframes, you must first specify the locator of the frame you are working in and then
+the locator of the specific element.
+i.e. Locator (iframe) + Locator(element)

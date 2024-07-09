@@ -1,0 +1,8 @@
+
+
+https://playwright.dev/java/docs/codegen
+
+To use codegen:
+mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="codegen demo.playwright.dev/todomvc"
+
+https://orangehrmlive.com/en/30-day-free-trial

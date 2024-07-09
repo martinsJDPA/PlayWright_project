@@ -1,0 +1,14 @@
+
+
+CSS: matching elements based on layout
+https://playwright.dev/java/docs/other-locators#css-matching-elements-based-on-layout
+:right-of(div > button)
+ - Matches elements that are to the right of any element matching the inner selector, at any vertical position.
+:left-of(div > button)
+- Matches elements that are to the left of any element matching the inner selector, at any vertical position.
+:above(div > button)
+ - Matches elements that are above any of the elements matching the inner selector, at any horizontal position.
+:below(div > button)
+- Matches elements that are below any of the elements matching the inner selector, at any horizontal position.
+:near(div > button)
+- Matches elements that are near (within 50 CSS pixels) any of the elements matching the inner selector.
